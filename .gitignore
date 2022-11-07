@@ -63,3 +63,4 @@ BackendMascotas/dist
 # Cache used by TypeScript's incremental build
 *.tsbuildinfo
 BackendMascotas/src/datasources/mongodb.datasource.ts
+BackendMascotas/src/config/llaves.ts
